@@ -1,0 +1,1 @@
+ G:\\VS\ Flutter\ projects\\shoofly\\.dart_tool\\flutter_build\\a38f26d06638f4719f50f6cc32f5f782\\native_assets.json: 
